@@ -6,8 +6,8 @@
 
 **Video Lessons:**
 - [ ] ISLR ESL
-- [ ]  [Python Data Science Udemy](VideoCheckLists/Python for Data Science and Machine Learning Bootcamp.md)
-- [ ] Python ML Udemy
+- [ ]  [Python Data Science Udemy](/VideoCheckLists/Python for Data Science and Machine Learning Bootcamp.md)
+- [ ] [Python ML Udemy](/VideoCheckLists/Machine Learning A-Z  Hands-On Python and R In Data Science.md)
 - [ ] Coursera ML
 - [ ] Khan Academy Math
 - [ ] Khan Acdemy Probability
