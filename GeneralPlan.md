@@ -5,14 +5,15 @@
 - [ ] Midway apply jobs
 
 **Video Lessons:**
-- [ ] ISLR ESL
-- [ ]  [Python Data Science Udemy](VideoCheckLists/PythonforDataScienceandMachineLearningBootcamp.md)
+- [ ] [ISLR ESL](VideoCheckLists/ESL_ISLR_Video_List.md) ~15 Hours
+- [ ] [Python Data Science Udemy](VideoCheckLists/PythonforDataScienceandMachineLearningBootcamp.md)
 - [ ] [Python ML Udemy](VideoCheckLists/MachineLearningA-ZHands-OnPythonandRInDataScience.md)
 - [ ] Coursera ML
 - [ ] Khan Academy Math
 - [ ] Khan Acdemy Probability
 - [ ] fast.ai
 - [ ] Deep Learning Ng
+- [ ] [StatQuest](VideoCheckLists/StatQuest.md)
 
 
 **Books:**

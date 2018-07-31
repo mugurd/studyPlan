@@ -1,7 +1,7 @@
 | Book | File    |
 | :------------- | :------------- |
-| ![ISLR](images/ISLCover2.jpg)      | [ISLR](Refs/ISLR.pdf)       |
-| ![ESL](images/ESL.png)      | [ESL](Refs/ISLR.pdf)       |
+| ![ISLR](../images/ISLCover2.jpg)      | [ISLR](../Refs/ISLR.pdf)       |
+| ![ESL](../images/ESL.png)      | [ESL](Refs/ISLR.pdf)       |
 
 **Chapter 1: Introduction (slides)**
 - [ ] Opening Remarks and Examples (18:18)

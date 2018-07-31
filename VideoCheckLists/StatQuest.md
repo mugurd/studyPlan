@@ -1,0 +1,156 @@
+**The Basics**
+- [ ] 01_StatQuest - Histograms, Clearly Explained.mp4
+- [ ] 02_StatQuest -  What is a statistical distribution.mkv
+- [ ] 03_StatQuest - The normal distribution.webm
+- [ ] 04_StatQuest - What is a statistical model.mp4
+- [ ] 05_StatQuest - Sampling A Distribution.webm
+- [ ] 06_StatQuest - Technical and Biological Replicates.webm
+- [ ] 07_StatQuest - Sample Size and Effective Sample Size, Clearly Explained.webm
+- [ ] 08_StatQuickie - Standard Deviation vs Standard Error.mp4
+- [ ] 09_StatQuest - The standard error.mkv
+- [ ] 10_StatQuickie - Pie vs Bar Charts.webm
+- [ ] 11_StatQuest - Boxplots, Clearly Explained.mp4
+- [ ] 12_StatQuest - Logs (logarithms), clearly explained.webm
+- [ ] 13_StatQuest - R-squared explained.mkv
+- [ ] 14_StatQuest - Confidence Intervals.mkv
+- [ ] 15_StatQuest - P Values, clearly explained.webm
+- [ ] 16_StatQuickie - Thresholds for Significance.mp4
+- [ ] 17_StatQuickie - Which t test to use.mp4
+- [ ] 18_StatQuest -  One or Two Tailed P-Values.webm
+- [ ] 19_StatQuest - Maximum Likelihood, clearly explained!!!.webm
+- [ ] 21_StatQuest - Quantiles and Percentiles, Clearly Explained!!!.mp4
+- [ ] 22_StatQuest - Quantile-Quantile Plots (QQ plots), Clearly Explained.mp4
+- [ ] 23_StatQuest - Quantile Normalization.mp4
+- [ ] 24_StatQuest - Probability vs Likelihood.webm
+- [ ] 25_Maximum Likelihood for the Exponential Distribution, Clearly Explained! V1.0.mp4
+- [ ] 26_StatQuest - Odds and Log(Odds), Clearly Explained!!!.webm
+- [ ] 28_StatQuest - Odds Ratios and Log(Odds Ratios), Clearly Explained!!!.webm
+- [ ] 29_Maximum Likelihood for the Exponential Distribution, Clearly Explained! V2.0.mkv
+
+**Linear Models**
+- [ ] 01_StatQuest - Fitting a line to data, aka least squares, aka linear regression..mp4
+- [ ] 02_StatQuest - Linear Models Pt.1 - Linear Regression.webm
+- [ ] 03_StatQuest - Linear Regression in R.mp4
+- [ ] 04_StatQuest - Linear Models Pt.1.5 - Multiple Regression.mp4
+- [ ] 05_StatQuest - Multiple Regression in R.mp4
+- [ ] 06_StatQuest - Linear Models Pt.2 - t-tests and ANOVA.mp4
+- [ ] 07_StatQuest - Linear Models Pt.3 - Design Matrices.mp4
+- [ ] 08_StatQuest - Linear Models Pt.3 - Design Matrix Examples in R.mp4
+- [ ] 09_StatQuest - P Values, clearly explained.webm
+- [ ] 10_StatQuest - R-squared explained.mkv
+- [ ] 11_StatQuest - Odds and Log(Odds), Clearly Explained!!!.webm
+- [ ] 13_StatQuest - Logistic Regression.mkv
+- [ ] 14_Logistic Regression Details Pt1 - Coefficients.webm
+- [ ] 15_Logistic Regression Details Pt 2 - Maximum Likelihood.mkv
+- [ ] 16_Logistic Regression Details Pt 3 - R-squared and p-value.mkv
+- [ ] 17_StatQuest - Odds Ratios and Log(Odds Ratios), Clearly Explained!!!.webm
+- [ ] 18_Saturated Models and Deviance.webm
+- [ ] 19_Deviance Residuals.mp4
+- [ ] 21_Logistic Regression in R, Clearly Explained!!!!.mp4
+
+**Machine Learning**
+- [ ] 01_StatQuest - Principal Component Analysis (PCA), Step-by-Step.mkv
+- [ ] 02_StatQuest - PCA in R.mp4
+- [ ] 03_StatQuest - PCA in Python.mp4
+- [ ] 04_StatQuest - t-SNE, Clearly Explained.webm
+- [ ] 05_StatQuest - Linear Discriminant Analysis (LDA) clearly explained..webm
+- [ ] 07_StatQuest - K-nearest neighbors, Clearly Explained.mp4
+- [ ] 08_StatQuest - Hierarchical Clustering.mp4
+- [ ] 09_StatQuest - Fiitting a curve to data, aka lowess, aka loess.mp4
+- [ ] 10_StatQuest - Fitting a line to data, aka least squares, aka linear regression..mp4
+- [ ] 11_StatQuest - MDS and PCoA.mp4
+- [ ] 12_StatQuest - MDS and PCoA in R.mp4
+- [ ] 13_StatQuest - Decision Trees.mkv
+- [ ] 14_StatQuest - Decision Trees, Part 2 - Feature Selection and Missing Data.mp4
+- [ ] 15_StatQuest - Random Forests Part 1 - Building, Using and Evaluating.mkv
+- [ ] 16_StatQuest - Random Forests Part 2 - Missing data and clustering.mp4
+- [ ] 17_StatQuest - Random Forests in R.mp4
+- [ ] 18_StatQuest - Logistic Regression.mkv
+- [ ] 19_StatQuest - Cross Validation for Machine Learning.webm
+- [ ] 20_StatQuest - Odds and Log(Odds), Clearly Explained!!!.webm
+- [ ] 22_StatQuest - PCA - Practical Tips.mp4
+- [ ] 23_StatQuest - PCA main ideas in only 5 minutes!!!.webm
+- [ ] 24_StatQuest - Principal Component Analysis (PCA) clearly explained (2015).webm
+- [ ] 25_StatQuest - K-means clustering.mkv
+- [ ] 26_Logistic Regression Details Pt1 - Coefficients.webm
+- [ ] 27_Logistic Regression Details Pt 2 - Maximum Likelihood.mkv
+- [ ] 28_Logistic Regression Details Pt 3 - R-squared and p-value.mkv
+- [ ] 29_StatQuest - Odds Ratios and Log(Odds Ratios), Clearly Explained!!!.webm
+- [ ] 30_Saturated Models and Deviance.webm
+- [ ] 31_Deviance Residuals.mp4
+- [ ] 33_Logistic Regression in R, Clearly Explained!!!!.mp4
+
+**StatQuest**
+- [ ] 01_StatQuest - Principal Component Analysis (PCA) clearly explained (2015).webm
+- [ ] 02_StatQuest - Linear Discriminant Analysis (LDA) clearly explained..webm
+- [ ] 03_StatQuest - Maximum Likelihood, clearly explained!!!.webm
+- [ ] 04_StatQuest - PCA main ideas in only 5 minutes!!!.webm
+- [ ] 05_StatQuest - Principal Component Analysis (PCA), Step-by-Step.mkv
+- [ ] 06_StatQuest - RPKM, FPKM and TPM.mkv
+- [ ] 07_StatQuest - A gentle introduction to RNA-seq.webm
+- [ ] 08_StatQuest - t-SNE, Clearly Explained.webm
+- [ ] 09_StatQuest - Logistic Regression.mkv
+- [ ] 10_StatQuest - Quantile-Quantile Plots (QQ plots), Clearly Explained.mp4
+- [ ] 11_StatQuest - Probability vs Likelihood.webm
+- [ ] 12_StatQuest - Random Forests Part 1 - Building, Using and Evaluating.mkv
+- [ ] 13_StatQuest - Linear Models Pt.1 - Linear Regression.webm
+- [ ] 14_StatQuest - P Values, clearly explained.webm
+- [ ] 15_StatQuest - PCA in R.mp4
+- [ ] 16_StatQuest - Quantiles and Percentiles, Clearly Explained!!!.mp4
+- [ ] 17_StatQuest - Decision Trees.mkv
+- [ ] 18_StatQuest - R-squared explained.mkv
+- [ ] 19_StatQuest - Hierarchical Clustering.mp4
+- [ ] 20_Maximum Likelihood for the Exponential Distribution, Clearly Explained! V1.0.mp4
+- [ ] 21_StatQuest - DESeq2, part 1, Library Normalization.webm
+- [ ] 22_StatQuickie - Standard Deviation vs Standard Error.mp4
+- [ ] 23_StatQuest - Heatmaps - considerations for drawing and interpreting them..mkv
+- [ ] 24_StatQuest - MDS and PCoA.mp4
+- [ ] 25_StatQuest - The Trailer!.mp4
+- [ ] 26_StatQuest - Fiitting a curve to data, aka lowess, aka loess.mp4
+- [ ] 27_StatQuest - PCA in Python.mp4
+- [ ] 28_StatQuest - K-means clustering.mkv
+- [ ] 29_StatQuest - Linear Models Pt.2 - t-tests and ANOVA.mp4
+- [ ] 30_StatQuest - What is a statistical model.mp4
+- [ ] 31_StatQuest - Random Forests Part 2 - Missing data and clustering.mp4
+- [ ] 32_StatQuest - edgeR and DESeq2, part 2 - Independent Filtering.mp4
+- [ ] 33_StatQuest - A gentle introduction to ChIP-Seq.mkv
+- [ ] 34_StatQuest - p-hacking and power calculations.mp4
+- [ ] 35_StatQuest - K-nearest neighbors, Clearly Explained.mp4
+- [ ] 36_StatQuest - The standard error.mkv
+- [ ] 37_StatQuest - Fitting a line to data, aka least squares, aka linear regression..mp4
+- [ ] 38_StatQuest -  What is a statistical distribution.mkv
+- [ ] 39_StatQuest - Logs (logarithms), clearly explained.webm
+- [ ] 40_StatQuickie - Enrichment Analysis using Fisher's Exact Test and the Hypergeometric Distribution.mp4
+- [ ] 41_StatQuest - Histograms, Clearly Explained.mp4
+- [ ] 42_StatQuest - Confidence Intervals.mkv
+- [ ] 43_Logistic Regression Details Pt1 - Coefficients.webm
+- [ ] 44_StatQuest - Cross Validation for Machine Learning.webm
+- [ ] 45_StatQuest - edgeR, part 1, Library Normalization.webm
+- [ ] 46_StatQuest - Linear Models Pt.3 - Design Matrices.mp4
+- [ ] 47_StatQuest - Random Forests in R.mp4
+- [ ] 48_StatQuest - Sample Size and Effective Sample Size, Clearly Explained.webm
+- [ ] 49_StatQuest - PCA - Practical Tips.mp4
+- [ ] 50_Logistic Regression Details Pt 2 - Maximum Likelihood.mkv
+- [ ] 51_StatQuest - The normal distribution.webm
+- [ ] 52_StatQuest - RNA-seq - the problem with technical replicates.mkv
+- [ ] 53_StatQuest - Quantile Normalization.mp4
+- [ ] 54_StatQuest - Multiple Regression in R.mp4
+- [ ] 55_StatQuest - Linear Models Pt.3 - Design Matrix Examples in R.mp4
+- [ ] 56_StatQuest - Technical and Biological Replicates.webm
+- [ ] 57_StatQuest - MDS and PCoA in R.mp4
+- [ ] 58_StatQuest - Linear Models Pt.1.5 - Multiple Regression.mp4
+- [ ] 59_StatQuest - Decision Trees, Part 2 - Feature Selection and Missing Data.mp4
+- [ ] 60_StatQuest - Linear Regression in R.mp4
+- [ ] 61_StatQuest - Sampling A Distribution.webm
+- [ ] 62_Logistic Regression Details Pt 3 - R-squared and p-value.mkv
+- [ ] 63_StatQuickie - Which t test to use.mp4
+- [ ] 64_StatQuest -  One or Two Tailed P-Values.webm
+- [ ] 65_StatQuest - Boxplots, Clearly Explained.mp4
+- [ ] 66_StatQuest - Odds Ratios and Log(Odds Ratios), Clearly Explained!!!.webm
+- [ ] 67_StatQuickie - Thresholds for Significance.mp4
+- [ ] 68_StatQuickie - Pie vs Bar Charts.webm
+- [ ] 69_StatQuest - How to make a Mean Pizza Crust!!!.mp4
+- [ ] 70_Saturated Models and Deviance.webm
+- [ ] 71_Deviance Residuals.mp4
+- [ ] 72_Logistic Regression in R, Clearly Explained!!!!.mp4
+- [ ] 77_Maximum Likelihood for the Exponential Distribution, Clearly Explained! V2.0.mp4
