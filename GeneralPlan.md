@@ -13,7 +13,8 @@
 - [ ] Khan Acdemy Probability
 - [ ] fast.ai
 - [ ] Deep Learning Ng
-- [ ] [StatQuest](VideoCheckLists/StatQuest.md)
+- [ ] [StatQuest](VideoCheckLists/StatQuest.md) ~25.5 Hours
+- [ ] [Siraj Raval](VideoCheckLists/StatQuest.md) ~15 Hours
 
 
 **Books:**
